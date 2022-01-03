@@ -1,7 +1,5 @@
 # ConnectFour
-3 different Connect Four games. There is a 2 player, basic AI, and MiniMax AI game.
-
-All games use numpy and pygame.
+3 different Connect Four games. There is a 2 player, basic AI, and MiniMax AI game. All games use numpy and pygame.
 
 The first game is a basic 2 player Connect Four game that ends when either player gets 4 in a row or the board is filled.
 
